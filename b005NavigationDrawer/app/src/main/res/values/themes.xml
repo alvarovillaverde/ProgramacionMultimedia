@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.B005NavigationDrawer" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <!-- Tema para la barra superior (Toolbar) -->
+    <style name="Theme.b005NavigationDrawer.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <!-- Tema para los menús desplegables (Popup) -->
+    <style name="Theme.b005NavigationDrawer.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Theme.B005NavigationDrawer" parent="Base.Theme.B005NavigationDrawer" />
+</resources>
