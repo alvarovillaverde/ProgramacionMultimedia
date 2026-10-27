@@ -32,7 +32,7 @@
         app:layout_constraintVertical_bias="0.122" />
 
     <WebView
-        android:layout_width="328dp"
+        android:layout_width="308dp"
         android:layout_height="416dp"
         android:id="@+id/webview"
         app:layout_constraintBottom_toBottomOf="parent"
